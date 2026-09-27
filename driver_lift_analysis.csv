@@ -1,0 +1,35 @@
+driver,level,churn_rate,n_customers,lift_vs_avg_pct
+PaymentMethod,Electronic check,0.4529,2365,70.7
+Contract,Month-to-month,0.4271,3875,60.9
+InternetService,Fiber optic,0.4189,3096,57.9
+SeniorCitizen,1,0.4168,1142,57.1
+PaperlessBilling,Yes,0.3357,4171,26.5
+Partner,No,0.3296,3641,24.2
+OnlineSecurity,No,0.3133,5024,18.1
+Dependents,No,0.3128,4933,17.9
+TechSupport,No,0.3119,4999,17.5
+StreamingTV,Yes,0.3007,2707,13.3
+StreamingMovies,Yes,0.2994,2732,12.8
+OnlineBackup,No,0.2917,4614,9.9
+DeviceProtection,No,0.2865,4621,8.0
+MultipleLines,Yes,0.2861,2971,7.8
+gender,Female,0.2692,3488,1.4
+gender,Male,0.2616,3555,-1.4
+MultipleLines,No,0.2502,4072,-5.7
+StreamingMovies,No,0.2438,4311,-8.1
+StreamingTV,No,0.2433,4336,-8.3
+SeniorCitizen,0,0.2361,5901,-11.0
+DeviceProtection,Yes,0.225,2422,-15.2
+OnlineBackup,Yes,0.2153,2429,-18.9
+Partner,Yes,0.1966,3402,-25.9
+PaymentMethod,Mailed check,0.1911,1612,-28.0
+InternetService,DSL,0.1896,2421,-28.6
+PaymentMethod,Bank transfer (automatic),0.1671,1544,-37.0
+PaperlessBilling,No,0.1633,2872,-38.5
+Dependents,Yes,0.1545,2110,-41.8
+PaymentMethod,Credit card (automatic),0.1524,1522,-42.6
+TechSupport,Yes,0.1517,2044,-42.8
+OnlineSecurity,Yes,0.1461,2019,-44.9
+Contract,One year,0.1127,1473,-57.5
+InternetService,No,0.074,1526,-72.1
+Contract,Two year,0.0283,1695,-89.3

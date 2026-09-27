@@ -1,0 +1,4 @@
+InternetService,n_customers,churn_rate,avg_monthly_charges,avg_total_charges,avg_tenure,pct_of_base
+Fiber optic,3096,0.42,91.5,3205.3,32.92,44.0
+DSL,2421,0.19,58.1,2115.41,32.82,34.4
+No,1526,0.07,21.08,662.6,30.55,21.7

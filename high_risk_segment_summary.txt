@@ -1,0 +1,5 @@
+High-risk segment: Month-to-month + tenure<=12mo + no OnlineSecurity + no TechSupport
+Customers: 1576 (22.4% of base)
+Churn rate: 54.2% vs base 26.5%
+Monthly revenue exposure: $88,603
+Annualized revenue exposure: $1,063,239
