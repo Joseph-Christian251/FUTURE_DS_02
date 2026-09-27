@@ -1,0 +1,4 @@
+Contract,n_customers,churn_rate,avg_monthly_charges,avg_total_charges,avg_tenure,pct_of_base
+Month-to-month,3875,0.43,66.4,1369.25,18.04,55.0
+One year,1473,0.11,65.05,3032.62,42.04,20.9
+Two year,1695,0.03,60.77,3706.93,56.74,24.1

@@ -1,0 +1,4 @@
+SpendTier,n_customers,churn_rate,avg_monthly_charges,avg_total_charges,avg_tenure,pct_of_base
+High,2347,0.34,97.33,4171.53,42.03,33.3
+Medium,2345,0.3,69.04,1954.69,28.37,33.3
+Low,2351,0.16,27.99,715.37,26.72,33.4
